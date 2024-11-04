@@ -41,7 +41,7 @@ MealMatch addresses the challenge of achieving fitness goals through nutrition b
 #### Output2 - Name of the output
 ![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
 
-Detection Accuracy: 95%
+## Detection Accuracy: 95%
 
 The personalized meal recommendations have achieved an accuracy of over 95% in aligning with user goals, as validated through testing and feedback. MealMatch has shown potential to make significant contributions to the health and wellness industry by promoting personalized nutrition and supporting a range of dietary needs.
 
