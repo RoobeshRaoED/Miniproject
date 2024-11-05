@@ -16,7 +16,7 @@ MealMatch addresses the challenge of achieving fitness goals through nutrition b
 - Flexible Subscription Options: Options for daily, weekly, or customizable delivery schedules to suit user lifestyles.
 
 ## Requirements
-<!--List the requirements of the project as shown below-->
+
 * Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
 * Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
 * Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
@@ -43,8 +43,8 @@ MealMatch significantly enhances the accessibility of personalized nutrition, al
 
 ## Articles published / References
 
-• Varshney, N., Jadhav, N., Gupta, K., Mate, N. R., Rose, A., & Kumar, P. (2022). Development of a personalized nutrition and diet management system. IEEE Access, 10, 21574-21587.
-• Moorhead, A., Bond, R., & Zheng, H. (2019). Smart nutrition management system using mobile application. IEEE Access, 7, 7358-7367.
-• Reddy, J. V., & Reddy, J. B. M. (2022). AI-based personalized meal planning for healthy eating. IEEE Access, 10, 16549-16562.
-• Rahman, M. M., Foysal, M. R., Moon, N. N., & Nur, F. N. (2022). Health monitoring and nutrition management: A review. IEEE Transactions on Emerging Topics in Computing, 10(1), 6-19.
-• Sundarramurthi, M., M, N., & Giridharan, A. (2021). A systematic review on personalized nutrition and diet tracking. IEEE Access.
+- Varshney, N., Jadhav, N., Gupta, K., Mate, N. R., Rose, A., & Kumar, P. (2022). Development of a personalized nutrition and diet management system. IEEE Access, 10, 21574-21587.
+- Moorhead, A., Bond, R., & Zheng, H. (2019). Smart nutrition management system using mobile application. IEEE Access, 7, 7358-7367.
+- Reddy, J. V., & Reddy, J. B. M. (2022). AI-based personalized meal planning for healthy eating. IEEE Access, 10, 16549-16562.
+- Rahman, M. M., Foysal, M. R., Moon, N. N., & Nur, F. N. (2022). Health monitoring and nutrition management: A review. IEEE Transactions on Emerging Topics in Computing, 10(1), 6-19.
+- Sundarramurthi, M., M, N., & Giridharan, A. (2021). A systematic review on personalized nutrition and diet tracking. IEEE Access.
