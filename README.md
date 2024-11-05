@@ -9,11 +9,11 @@ MealMatch addresses the challenge of achieving fitness goals through nutrition b
 
 ## Features
 
--Personalized Meal Plans: Crafted to support specific goals like fat loss, muscle gain, and recomposition.
--Real-Time Monitoring and Adjustments: Tracks user progress and customizes meal plans based on feedback.
--Convenient Mobile Interface: Allows users to browse meals, schedule deliveries, and contact support seamlessly.
--Fresh, Macro-Balanced Meals: Meals are made from quality ingredients, balanced in protein, carbs, and fats for comprehensive nutrition.
--Flexible Subscription Options: Options for daily, weekly, or customizable delivery schedules to suit user lifestyles.
+- Personalized Meal Plans: Crafted to support specific goals like fat loss, muscle gain, and recomposition.
+- Real-Time Monitoring and Adjustments: Tracks user progress and customizes meal plans based on feedback.
+- Convenient Mobile Interface: Allows users to browse meals, schedule deliveries, and contact support seamlessly.
+- Fresh, Macro-Balanced Meals: Meals are made from quality ingredients, balanced in protein, carbs, and fats for comprehensive nutrition.
+- Flexible Subscription Options: Options for daily, weekly, or customizable delivery schedules to suit user lifestyles.
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
@@ -26,20 +26,12 @@ MealMatch addresses the challenge of achieving fitness goals through nutrition b
 * Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
-
+![](Mini%20Project%20Architecture%20Diagram.png)
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
-
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
-
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+![](output.png)
 
 ## Detection Accuracy: 95%
 
